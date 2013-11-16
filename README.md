@@ -6,4 +6,4 @@ Copy the file `symfony2-completions.bash` to somewhere on your disk and add to y
 
     source ~/path/to/symfony2-completsions.bash
 
-And you should be good to go. For the first argument it will try to complete the command name, for the rest it will try to complete the command options. Note that your `symfony` or `app/console` utility needs to provide at least the `list` and `help` commands for this to work. Also, both of them should have the `--raw` option to display only raw output.
+And you should be good to go. For the first argument it will try to complete the command name, for the rest it will try to complete the command options. Note that your `symfony` or `app/console` utility needs to provide at least the `list` and `help` commands for this to work.
